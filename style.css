@@ -1,0 +1,43 @@
+.strumming-picture {
+    width: 100%;
+    height: 50%;
+    background-image: url("https://media1.giphy.com/media/ZuN7givPTSUkE/giphy.gif")
+}
+
+#changing-bar {
+    color: red;
+}
+
+.smashing-picture {
+    width: 100%;
+    background-image: url("https://media3.giphy.com/media/iTLeZcKBjkFVu/giphy.gif")
+}
+
+.melted {
+    text-align: center;
+    font-family: 'Audiowide', cursive;
+}
+
+.bass {
+    width: 100px;
+    height: 100px;
+}
+.piano {
+    width: 100px; 
+    height: 100px;
+}
+
+.drums {
+    width: 100%;
+    height:100%;
+}
+
+.rockymeter {
+    font-family: 'Audiowide', cursive;
+    text-align: center;
+}
+
+.boost {
+    font-family: 'Audiowide', cursive;
+    text-align: center;
+}
